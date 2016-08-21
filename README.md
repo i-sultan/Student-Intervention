@@ -23,7 +23,8 @@ In the last part of this project, R was used as an EDA tool:
 * R 3.2.3
 * ggplot
 
-## Data Set Source
+## DataSet Source
+Dataset is included in this repository as csv file: student-data.csv. more details about the dataset can be found in the final report.
 
 ## Final Report and IPython Notebook
 Final report and IPython notebook are included in this repository. IPython notebook is straightforward to use, please refer to http://cs231n.github.io/ipython-tutorial/ for a quick tutorial.
